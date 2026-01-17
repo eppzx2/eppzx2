@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Elmir 
 
-# 💻 Cybersecurity Student | Aspiring Penetration Tester
+### 💻 Cybersecurity Student | Aspiring Penetration Tester
 
-# 🎯 Focus areas: Automation, Bash Scripting, Pentesting
+### 🎯 Focus areas: Automation, Bash Scripting, Pentesting
 
-# 🔐 Strong interest in OWASP Top 10 vulnerabilities and hands-on security labs
+### 🔐 Strong interest in OWASP Top 10 vulnerabilities and hands-on security labs
 
 ## 🚀 About Me
 
