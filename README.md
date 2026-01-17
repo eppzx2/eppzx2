@@ -1,49 +1,49 @@
-👋 Hi, I'm Elmir 
+# 👋 Hi, I'm Elmir 
 
-💻 Cybersecurity Student | Aspiring Penetration Tester
+# 💻 Cybersecurity Student | Aspiring Penetration Tester
 
-🎯 Focus areas: Automation, Bash Scripting, Pentesting
+# 🎯 Focus areas: Automation, Bash Scripting, Pentesting
 
-🔐 Strong interest in OWASP Top 10 vulnerabilities and hands-on security labs
+# 🔐 Strong interest in OWASP Top 10 vulnerabilities and hands-on security labs
 
-🚀 About Me
+## 🚀 About Me
 
 I am a cybersecurity student actively preparing for a career in penetration testing (Red Team). I focus on understanding how systems fail, how attackers think, and how security can be improved through automation and practical testing.
 
 My learning approach is lab-driven and hands-on, with a strong emphasis on real-world attack scenarios rather than purely theoretical knowledge.
 
 🛠️ Skills & Interests
-🔐 Offensive Security
+### 🔐 Offensive Security
 
-Web Application Pentesting
+### 🌐 Web Application Pentesting
 
-OWASP Top 10 (XSS, SQLi, IDOR, SSRF, Auth issues)
+- **OWASP Top 10 (XSS, SQLi, IDOR, SSRF, Auth issues)**
 
-Vulnerability Analysis & Manual Testing
+- **Vulnerability Analysis & Manual Testing**
 
-⚙️ Automation & Scripting
+### ⚙️ Automation & Scripting
 
-Bash Scripting, Python for automation
+- **Bash Scripting, Python for automation**
 
-Linux CLI automation
+- **Linux CLI automation**
 
-Basic Python for security tasks
+- **Basic Python for security tasks**
 
-🐧 Systems & Tools
+### 🐧 Systems & Tools
 
-Linux (Kali, Ubuntu)
+- **Linux (Kali, Ubuntu)**
 
-Burp Suite, Nmap, Metasploit,
+- **Burp Suite, Nmap, Metasploit**
 
-Git & GitHub
+- **Git & GitHub**
 
-Docker, Ghidra (basic usage)
+- **Docker, Ghidra (basic usage)**
 
-📂 Featured Projects
+### 📂 Featured Projects
 
 🔎 [holbertonschool-cyber_security](https://github.com/eppzx2/holbertonschool-cyber_security)  – Personal notes and methodology for pentesting
 
-📫 Contact
+### 📫 Contact
 
 GitHub: https://github.com/eppzx2
 
@@ -52,4 +52,4 @@ Mail: elmirinfo351@gmail.com
 Instagram: @eppzx
 
 
-"Automate what is repetitive. Test what is critical." 🔐
+"Automate what is repetitive. Test what is critical." 🔐 
