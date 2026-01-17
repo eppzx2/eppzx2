@@ -1,7 +1,7 @@
 👋 Hi, I'm Elmir 
 
 💻 Cybersecurity Student | Aspiring Penetration Tester
-🎯 Focus areas: Automation, Bash Scripting, Web Pentesting
+🎯 Focus areas: Automation, Bash Scripting, Pentesting
 🔐 Strong interest in OWASP Top 10 vulnerabilities and hands-on security labs
 
 🚀 About Me
@@ -39,12 +39,14 @@ Docker, Ghidra (basic usage)
 
 📂 Featured Projects
 
-🔎 holbertonschool-cyber_security – Personal notes and methodology for pentesting
+🔎 [holbertonschool-cyber_security](https://github.com/eppzx2/holbertonschool-cyber_security)  – Personal notes and methodology for pentesting
 
 📫 Contact
 
 GitHub: https://github.com/eppzx2
+
 Mail: elmirinfo351@gmail.com
+
 Instagram: @eppzx
 
 
