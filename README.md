@@ -45,7 +45,7 @@ Docker, Ghidra (basic usage)
 
 GitHub: https://github.com/eppzx2
 Mail: elmirinfo351@gmail.com
-Instagram: eppzx
+Instagram: @eppzx
 
 
 "Automate what is repetitive. Test what is critical." 🔐
