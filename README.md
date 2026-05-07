@@ -48,7 +48,8 @@ elmir@kali:~$ cat skills.txt
 ```
 ✔ OWASP Top 10          ✔ SQL Injection
 ✔ Cross-Site Scripting  ✔ IDOR / SSRF
-✔ Auth Bypass           ✔ Manual Testing
+✔ Reconnaissance        ✔ Manual Testing
+✔ Linux                 ✔ Active Directory
 ```
 
 **`→ Automation & Scripting`**
@@ -75,7 +76,7 @@ elmir@kali:~$ ls -la projects/
 
 ### 🔎 [holbertonschool-cyber_security](https://github.com/eppzx2/holbertonschool-cyber_security)
 
-> Personal pentesting notes, methodology, and hands-on lab write-ups.  
+> Personal pentesting notes, methodology, python, bash.  
 > Covers web vulnerabilities, recon techniques, and exploitation frameworks.
 
 ```
