@@ -1,55 +1,52 @@
-# 👋 Hi, I'm Elmir 
+<div align="center">
+elmir@kali:~$ cat profile.md
+# Elmir
+**Cybersecurity Student · Aspiring Penetration Tester · Red Team**
 
-### 💻 Cybersecurity Student | Aspiring Penetration Tester
+![Offensive Security](https://img.shields.io/badge/Offensive_Security-0F6E56?style=flat-square&logo=kalilinux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-993C1D?style=flat-square&logo=owasp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-185FA5?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-854F0B?style=flat-square&logo=gnubash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-534AB7?style=flat-square&logo=kalilinux&logoColor=white)
 
-### 🎯 Focus areas: Automation, Bash Scripting, Pentesting
+</div>
 
-### 🔐 Strong interest in OWASP Top 10 vulnerabilities and hands-on security labs
+---
 
-## 🚀 About Me
+## `// about`
 
-I am a cybersecurity student actively preparing for a career in penetration testing (Red Team). I focus on understanding how systems fail, how attackers think, and how security can be improved through automation and practical testing.
+Cybersecurity student focused on **Red Team operations** and web application security. My approach is lab-driven and hands-on — I prioritize understanding how systems fail over theoretical knowledge. Currently sharpening skills in manual exploitation, automation, and real-world attack simulation.
 
-My learning approach is lab-driven and hands-on, with a strong emphasis on real-world attack scenarios rather than purely theoretical knowledge.
+> *"Automate what is repetitive. Test what is critical."*
 
-🛠️ Skills & Interests
-### 🔐 Offensive Security
+---
 
-### 🌐 Web Application Pentesting
+## `// skills & tools`
 
-- **OWASP Top 10 (XSS, SQLi, IDOR, SSRF, Auth issues)**
+**→ Offensive Security**
+- OWASP Top 10 (SQLi, XSS, IDOR, LFİ RFİ, SSRF, CSRF)
+- Vulnerability Analysis & Manual Testing
 
-- **Vulnerability Analysis & Manual Testing**
+**→ Automation & Scripting**
+- Bash Scripting · Python for Security Tasks · Linux CLI Automation
 
-### ⚙️ Automation & Scripting
+**→ Tools & Platforms**
+- Burp Suite · Nmap · Metasploit
+- Kali Linux · Ubuntu · Docker · Ghidra (basic)
+- Git · GitHub
 
-- **Bash Scripting, Python for automation**
+---
 
-- **Linux CLI automation**
+## `// projects`
 
-- **Basic Python for security tasks**
+| Repository | Description |
+|---|---|
+| [holbertonschool-cyber_security](https://github.com/eppzx2/holbertonschool-cyber_security) | Personal pentesting notes, methodology. Covers web vulnerabilities, recon, linux, python and exploitation. |
 
-### 🐧 Systems & Tools
+---
 
-- **Linux (Kali, Ubuntu)**
+## `// contact`
 
-- **Burp Suite, Nmap, Metasploit**
-
-- **Git & GitHub**
-
-- **Docker, Ghidra (basic usage)**
-
-### 📂 Featured Projects
-
-🔎 [holbertonschool-cyber_security](https://github.com/eppzx2/holbertonschool-cyber_security)  – Personal notes and methodology for pentesting
-
-### 📫 Contact
-
-GitHub: https://github.com/eppzx2
-
-Mail: elmirinfo351@gmail.com
-
-Instagram: @eppzx
-
-
-"Automate what is repetitive. Test what is critical." 🔐 
+[![GitHub](https://img.shields.io/badge/GitHub-eppzx2-181717?style=flat-square&logo=github)](https://github.com/eppzx2)
+[![Email](https://img.shields.io/badge/Email-elmirinfo351@gmail.com-D44638?style=flat-square&logo=gmail)](mailto:elmirinfo351@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@eppzx-E4405F?style=flat-square&logo=instagram)](https://instagram.com/eppzx)
